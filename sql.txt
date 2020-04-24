@@ -1,0 +1,6 @@
+CREATE TABLE testingPhp (
+    id int(11) AUTO_INCREMENT  PRIMARY KEY not null,
+    Name varchar(255) not null,
+    Description varchar(255) not null,
+    Venue varchar(255) not null
+);
